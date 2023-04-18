@@ -7,8 +7,8 @@ import Formulario from './componentes/Formulario';
   return (
 
     <div>
-      <Banner/>
-      <Formulario/>
+        <Banner/>
+        <Formulario />
     </div>
 
   )
